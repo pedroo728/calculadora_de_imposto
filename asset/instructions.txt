@@ -1,0 +1,16 @@
+
+# 1. Estudar o problema
+# 2. colcoar em codigo (procedural)
+# 3. input pegando salario e horas
+# 4. multilplicar salario por hora = salario bruto
+# 5. calcular impostos
+# 6. calcular = salario liquido (O que sobra apos as facadas do governo)
+
+# clean code / arquitecture
+# 1.Organizar codigo 
+# 2.estrutrar repostirotio/diretorio/arquivos
+    # conifg
+    # inpuut
+    # logica/domian
+    # output / mostrar
+# 3.main = execucao
